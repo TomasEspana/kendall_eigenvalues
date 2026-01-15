@@ -26,7 +26,6 @@ source .venv/bin/activate
 # .\.venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
-python -m pip install -e .
 ```
 
-### 3. Run the notebook `main.ipynb`. 
+### 3. Run the notebook `main.ipynb` to reproduce the figures.
